@@ -72,7 +72,7 @@ pip install jupyter
 
 ## Desenvolvido por :octocat:
 
- [<img src="https://avatars.githubusercontent.com/alvesfab92" width=115><br><sub>Fabiana Alves</sub>] 
+ <img src="https://avatars.githubusercontent.com/alvesfab92" width=115><br><sub>Fabiana Alves</sub> 
 
 
 ## Fontes para construção do projeto
