@@ -31,10 +31,10 @@ Projeto desenvolvido para estudo de um modelo de análise e previsão de preços
 
 ## Como rodar a projeto :arrow_forward:
 
-Você pode obter uma cópia do projeto baixando ou clonando os arquivos desta instalação.
-Nele constará:
-1 - Arquivo Notebook formato .ipynb
-2 - Arquivo do dataset formato .csv
+Você pode obter uma cópia do projeto baixando ou clonando os arquivos desta instalação.<br>
+Nele constará:<br>
+1 - Arquivo Notebook formato .ipynb<br>
+2 - Arquivo do dataset formato .csv<br>
 
 
 ### 🔧 Para rodar o projeto
@@ -42,20 +42,19 @@ Nele constará:
 Caso você não tenha o Jupyter Notebook instalado em sua máquina, você pode fazer isso de 2 formas diferentes:
 
 #### Instalando Anaconda
-passo1: Para realizar a instalação, basta ir até o <a href="https://www.alura.com.br/artigos/conhecendo-o-jupyter-notebook>site oficial</a> e escolher o instalador de acordo com o sistema operacional.
-passo2: Assim que a instalação for concluída, ao abrir o Anaconda Navigator, o Jupyter Notebook estará pronto para uso.
+passo1: Para realizar a instalação, basta ir até o <a href="https://www.alura.com.br/artigos/conhecendo-o-jupyter-notebook>site oficial</a> e escolher o instalador de acordo com o sistema operacional.<br>
+passo2: Assim que a instalação for concluída, ao abrir o Anaconda Navigator, o Jupyter Notebook estará pronto para uso.<br>
 
 ////////////////////////////////////////
 
 #### Instalando via terminal
 
-Outra forma de instalar é através do pip (Gerenciador de pacotes do python). 
-passo 1: Instale o Python, você pode conseguir a versão mais atual no site oficial: https://www.python.org/
-Instale o Python em seu computador e através do terminal do sistema operacional, digite o comando:
+Outra forma de instalar é através do pip (Gerenciador de pacotes do python). <br>
+passo 1: Instale o Python, você pode conseguir a versão mais atual no site oficial: https://www.python.org/<br>
+Instale o Python em seu computador e através do terminal do sistema operacional, digite o comando:<br>
 
 ```
 pip install jupyter
-
 ```
 
 ## Dependências e libs utilizadas :books:
@@ -78,14 +77,14 @@ pip install jupyter
 
 ## Fontes para construção do projeto
 
-https://ebaconline.com.br/blog/analise-exploratoria-de-dados-o-que-e
-https://www.alura.com.br/artigos/conhecendo-o-jupyter-notebook
-https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet
-https://www.qualtrics.com/pt-br/gestao-de-experiencia/pesquisa-de-mercado/determine-sample-size/
-https://www.alura.com.br/artigos/desvendando-a-regressao-linear
-https://www.youtube.com/watch?v=TLlzToeIpGc
-https://www.learningdata.dev/post/entendendo-os-modelos-de-regressao
-https://www.hashtagtreinamentos.com/python-pickle-perpetuar-objetos-no-python
-https://chat.openai.com/
+https://ebaconline.com.br/blog/analise-exploratoria-de-dados-o-que-e <br>
+https://www.alura.com.br/artigos/conhecendo-o-jupyter-notebook <br>
+https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet <br>
+https://www.qualtrics.com/pt-br/gestao-de-experiencia/pesquisa-de-mercado/determine-sample-size/ <br>
+https://www.alura.com.br/artigos/desvendando-a-regressao-linear <br>
+https://www.youtube.com/watch?v=TLlzToeIpGc <br>
+https://www.learningdata.dev/post/entendendo-os-modelos-de-regressao <br>
+https://www.hashtagtreinamentos.com/python-pickle-perpetuar-objetos-no-python <br>
+https://chat.openai.com/ <br>
 
 Copyright :copyright: 2024 - Projeto LightHouse - Ciências de Dados
