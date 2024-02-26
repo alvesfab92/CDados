@@ -6,19 +6,6 @@
 
 > Status do Projeto: :heavy_check_mark: Concluído dentro das possibilidades da autora - porém não efetuado toda a proposta do desafio.
 
-### Tópicos 
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
-
 ## Descrição do projeto 
 
 <p align="justify">
